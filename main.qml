@@ -7,8 +7,8 @@
 import QtQuick 1.0
 
 Item {
-    width: 520
-    height: 520
+    width: 400
+    height: 400
 
     NyanScene {
         anchors.fill: parent

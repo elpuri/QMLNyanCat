@@ -10,7 +10,7 @@ Column {
     id: starField
     anchors.fill: parent
     anchors.topMargin: 6* pixelDim
-    spacing: 6 * pixelDim
+    spacing: 3 * pixelDim
     Repeater {
         model: phaseModel
         delegate: pop
