@@ -4,7 +4,7 @@
     You are free to do whatever you want with the code.
 */
 
-import QtQuick 1.0
+import QtQuick 2.0
 import QtMultimediaKit 1.1
 
 Audio {
